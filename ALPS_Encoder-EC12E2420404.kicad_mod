@@ -19,4 +19,9 @@
   (pad B thru_hole circle (at 2.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad A thru_hole circle (at -2.5 0) (size 1.8 1.8) (drill 1) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole rect (at 5.6 -7.5) (size 2 2.1) (drill 1) (layers *.Cu *.Mask F.SilkS))
+  (model C:/Users/Mark/Documents/Dev/uv-box/Electronics/lib/cylindric/ALPS_Encoder-EC12E2420404.wrl
+    (at (xyz 0 0.295275591 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 270))
+  )
 )
